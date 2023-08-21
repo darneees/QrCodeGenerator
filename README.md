@@ -1,8 +1,12 @@
 ## BEFORE: :pushpin:
-![before](https://github.com/darneees/QrCodeGenerator/assets/79709843/b7992b53-1f24-48e9-9e6d-a7e733a6a187)
+
+![before](https://github.com/darneees/QrCodeGenerator/assets/79709843/31784251-7a6c-472a-a3c6-5e9816c940e5)
+
 
 ## AFTER: :pushpin:
-![after](https://github.com/darneees/QrCodeGenerator/assets/79709843/855cc936-df30-4ece-ac83-041519c1c98c)
+
+![after](https://github.com/darneees/QrCodeGenerator/assets/79709843/a273c348-33e0-4fd4-b548-6af8d0bb260e)
+
 
 <h1>
   Qr Code Generator :file_folder:
