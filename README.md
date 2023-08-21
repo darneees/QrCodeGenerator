@@ -26,7 +26,7 @@ https://fonts.google.com/specimen/Poppins?query=po
 
 ## :desktop_computer: Deployed
 
-
+https://darneees.github.io/QrCodeGenerator/
 
 <h3 align="center">
   
