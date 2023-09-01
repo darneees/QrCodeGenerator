@@ -15,7 +15,7 @@
 ## ✔️ Tecnologias utilizadas:
 - ``HTML5``
 - ``CSS3``
-- - ``JAVASCRIPT``
+- ``JAVASCRIPT``
 
 ## :paperclip: Icon:
 
